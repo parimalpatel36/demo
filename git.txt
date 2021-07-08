@@ -1,0 +1,12 @@
+Repository -> Drive:D
+Branch-> Folder:master >readme.md
+
+Code ->Server
+
+git init
+
+git clone url
+
+url=https://github.com/ppssny/demo.git
+
+git pull >get code from server which added by your college 

@@ -28,3 +28,7 @@ git branch > also check
 git checkout >switch to next branch
 
 git checkout -b <<branch_name>>
+
+git merge <branch>>switch to that which need to merge another branch
+
+git fetch origin main

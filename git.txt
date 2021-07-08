@@ -10,3 +10,21 @@ git clone url
 url=https://github.com/ppssny/demo.git
 
 git pull >get code from server which added by your college 
+
+git status ->check the status of your code 
+
+git add <file_name>
+
+git add .
+
+git commit -m "message"
+
+git push
+
+git branch <<branch_name>> 
+
+git branch > also check
+
+git checkout >switch to next branch
+
+git checkout -b <<branch_name>>
